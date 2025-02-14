@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently studying on Universitas Islam Negeri Sunan Kalijaga Yogyakarta
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: [Instagram](https://www.instagram.com/rahurai_/); [LinkedIn](https://www.linkedin.com/in/ibnu-raju-humam-a14502221/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: cat lover
